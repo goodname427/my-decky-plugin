@@ -1,6 +1,6 @@
 {
   "name": "Example Plugin",
-  "author": "John Doe",
+  "author": "goodname427",
   "flags": ["debug", "_root"],
   "publish": {
     "tags": ["template", "root"],
